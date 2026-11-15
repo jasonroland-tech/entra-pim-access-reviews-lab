@@ -1,0 +1,6 @@
+# Raw exports can contain names, UPNs and IDs. Commit only redacted copies.
+evidence/raw/
+*.csv
+!evidence/*-redacted.csv
+.env
+*.pem

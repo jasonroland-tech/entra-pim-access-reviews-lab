@@ -5,6 +5,15 @@
 
 Uses Jordan Lee and `rg-lakeview-dev` from the RBAC lab. 📸 = screenshot. Redact IDs and names in exports.
 
+## Before you start
+
+**Accounts and licenses**
+- [ ] **Lakeview Health tenant and subscription**, with Jordan Lee and `rg-lakeview-dev` from the RBAC lab.
+- [ ] **Microsoft Entra ID P2 trial** (Step 1 starts it; free for 30 days. If Microsoft asks for a card, it's to verify you; set a reminder to cancel before day 30).
+- [ ] **Jordan's Authenticator** already set up from the RBAC lab (PIM activation asks for MFA).
+
+**Software:** none. Use a normal window for your admin account and a **private window** for Jordan.
+
 ## License (5 min)
 
 **1.** Entra admin > Identity Governance > Privileged Identity Management. If asked, start the free **Microsoft Entra ID P2** trial. Assign P2 to yourself and Jordan (Users > user > Licenses).
